@@ -1,2 +1,2 @@
 # scl-app
-School App
+School Application
